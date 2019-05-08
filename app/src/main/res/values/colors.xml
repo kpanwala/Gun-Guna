@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#FF4</color>
+    <color name="orange">#FF41</color>
+    <color name="lightgreen">#aaf255</color>
+    <color name="lightpink">#e98df5</color>
+    <color name="lightorange">#ffaf49</color>
+    <color name="lightpurple">#b794f6</color>
+    <color name="greenishblue">#BBDEFB</color>
+    <color name="peacock">#AED581</color>
+    <color name="peach">#FF8A65</color>
+    <color name="diff">#A1887F</color>
+    #AED581
+
+</resources>
